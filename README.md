@@ -1,2 +1,0 @@
-# Student Details using SQLAlchemy
-
